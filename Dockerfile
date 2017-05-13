@@ -1,4 +1,4 @@
-FROM ubuntu: trusty
+FROM ubuntu:trusty
 MAINTAINER Tetiana Khotiaintseva
 
 ENV TERM=xterm-256color
